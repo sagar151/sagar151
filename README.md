@@ -1,6 +1,11 @@
 # 💫 About Me:
-Passionate coder and developer, strong Skilled in JS, MongoDB, <br>Node JS, React Native, CI/CD, and React JS. business development<br>professional with a Bachelor’s Degree focused on software development <br>and engineering from VNSGU.
+As a Software Developer with over 2+ years of industry experience, I have a proven track record of building high-quality, cross-platform applications for Android and iOS. 🚀 I hold a Master's Degree in Computer Application from Jain University, and my skill set includes expertise in React Native, Fastlane, WebSocket, TypeScript, JavaScript, Push Notifications and Firebase. With extensive experience working with various popular NPM packages and SDKs such as Google Map, Razorpay, and Zerodha Kite, I am adept at integrating third-party tools to enhance application functionality. 🛠️
 
+I am dedicated to staying abreast of the latest industry trends and technologies, with a strong passion for learning and a motivation to solve complex problems. Throughout my career, I have successfully developed applications for various business domains, including news, stock investment, e-commerce, cab booking, and betting. My focus on delivering functional and visually appealing mobile applications has been instrumental in meeting the diverse needs of these industries. 📱
+
+I am particularly interested in emerging technologies such as AR/VR, AI, and Cloud Services, and I am committed to continuously expanding my knowledge in software development. My professional approach is underpinned by a drive to build innovative products and contribute to solving real-world challenges. In addition to my technical expertise, I am an enthusiastic learner and a team player. I am always eager to take on new challenges and am committed to delivering excellence in all my endeavors. My goal is to leverage my skills and experiences to make a meaningful impact in the field of mobile development. 💡
+
+If you have any opportunities or inquiries, please feel free to reach me at sagargajeradev@gmail.com. 📧
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagargajera151/) 
